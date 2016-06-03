@@ -1,0 +1,11 @@
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\bin\Debug\NameSplitter.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\bin\Debug\NameSplitter.pdb
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\bin\Debug\NameSplitter.dll.manifest
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\bin\Debug\NameSplitter.vsto
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\obj\Debug\NameSplitter.Properties.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\obj\Debug\NameSplitter.ResearchRibbon.resources
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\obj\Debug\NameSplitter.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\obj\Debug\NameSplitter.dll
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\NameSplitter\NameSplitter\obj\Debug\NameSplitter.pdb
